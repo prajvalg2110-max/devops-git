@@ -1,2 +1,2 @@
-my solo project on git
+my changed on main
 my thikg on branch
